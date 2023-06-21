@@ -122,4 +122,6 @@ This list is a collection of various materials that I use every day in my work. 
   🔸 incron - is an inode-based filesystem notification technology.
   🔸 GRV - is a terminal based interface for viewing Git repositories.
   🔸 tldr - simplified and community-driven man pages.
-  🔸 commander.js - minimal CLI creator in JavaScript.</h4></pre>
+  🔸 commander.js - minimal CLI creator in JavaScript.</h4></pre> <br>
+  <h2>GUI Tools</h2>
+  
