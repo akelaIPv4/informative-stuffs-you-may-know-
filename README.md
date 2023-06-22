@@ -10,9 +10,9 @@
 <br>   
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
-    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
-        alt="Branch">
+      <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
+         <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
+             alt="Branch">
   </a>
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"
