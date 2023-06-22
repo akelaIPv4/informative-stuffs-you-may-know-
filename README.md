@@ -7,7 +7,7 @@
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</h4>
 
-<br>
+<br>   
 
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/tree/master">
